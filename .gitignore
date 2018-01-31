@@ -175,9 +175,6 @@ typings/
 # Nuxt build
 .nuxt
 
-# Nuxt generate
-dist
-
 # Custom
 .idea
 .DS_Store

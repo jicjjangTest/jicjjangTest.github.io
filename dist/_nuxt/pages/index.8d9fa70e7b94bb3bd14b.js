@@ -1,0 +1,1 @@
+webpackJsonp([7],{"/TYz":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var l=t("ZJVI"),u=t("VU/8")(l.a,null,!1,null,null,null);u.options.__file="pages/index.vue",n.default=u.exports},ZJVI:function(e,n,t){"use strict";n.a={fetch:function(e){e.params;(0,e.redirect)(301,"/blog")}}}});
