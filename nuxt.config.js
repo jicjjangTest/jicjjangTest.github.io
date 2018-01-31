@@ -7,12 +7,12 @@ module.exports = {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'This blog has been used since 2018 using Nuxtjs with Vuejs' },
-      { hid: 'author', name: 'author', content: 'Junseok, Choi <jicjjang12@gmail.com>' },
+      { hid: 'author', name: 'author', content: 'Junseok, Choi <jicjjangtest12@gmail.com>' },
       { hid: 'og:type', name: 'og:type', content: 'blog' },
       { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
-      { hid: 'twitter:creator', name: 'twitter:creator', content: '@jicjjang' },
+      { hid: 'twitter:creator', name: 'twitter:creator', content: '@jicjjangtest' },
       { hid: 'twitter:site', name: 'twitter:site', content: 'June' },
-      { hid: 'twitter:domain', name: 'twitter:domain', content: 'https://jicjjang.github.io' },
+      { hid: 'twitter:domain', name: 'twitter:domain', content: 'https://jicjjangtest.github.io' },
     ],
     script: [
       { type: 'text/javascript', src: '/blog/script/google-analytics.js' }

@@ -1,4 +1,4 @@
-# jicjjang.github.io
+# jicjjangtest.github.io
 
 > This blog has been used since 2018 using Nuxtjs with vuejs
 

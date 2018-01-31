@@ -24,10 +24,10 @@
         <div class="profile__container">
           <p>프론트 개발을 좋아하고 꾸준히 공부하는 서버 개발자. 새로운 기술에 관심이 많음. React + Vue 개발 진행중. 현재 Bugs Music 재직중.</p>
           <ul class="profile__social">
-            <li><a class="fa fa-lg fa-envelope-o" href="mailto:jicjjang12@gmail.com"></a></li>
-            <li><a class="fa fa-lg fa-github" href="https://github.com/jicjjang" target="_blank"></a></li>
-            <li><a class="fa fa-lg fa-linkedin" href="https://www.linkedin.com/in/jicjjang" target="_blank"></a></li>
-            <li><a class="fa fa-lg fa-instagram" href="https://instagram.com/jicjjang12" target="_blank"></a></li>
+            <li><a class="fa fa-lg fa-envelope-o" href="mailto:jicjjangtest12@gmail.com"></a></li>
+            <li><a class="fa fa-lg fa-github" href="https://github.com/jicjjangtest" target="_blank"></a></li>
+            <li><a class="fa fa-lg fa-linkedin" href="https://www.linkedin.com/in/jicjjangtest" target="_blank"></a></li>
+            <li><a class="fa fa-lg fa-instagram" href="https://instagram.com/jicjjangtest12" target="_blank"></a></li>
           </ul>
         </div>
       </div>
@@ -56,14 +56,14 @@
       title: 'June',
       meta: [
         { hid: 'og:title', name: 'og:title', content: 'June' },
-        { hid: 'og:url', name: 'og:url', content: 'https://jicjjang.github.io/blog' },
+        { hid: 'og:url', name: 'og:url', content: 'https://jicjjangtest.github.io/blog' },
         { hid: 'og:site_name', name: 'og:site_name', content: 'June' },
         { hid: 'og:description', name: 'og:description', content: 'June\'s blog' },
-        { hid: 'og:image', name: 'og:image', content: 'https://jicjjang.github.io/blog/image/mine.jpg' },
+        { hid: 'og:image', name: 'og:image', content: 'https://jicjjangtest.github.io/blog/image/mine.jpg' },
         { hid: 'twitter:description', name: 'twitter:description', content: 'June\'s blog' },
         { hid: 'twitter:title', name: 'twitter:title', content: 'June' },
-        { hid: 'twitter:url', name: 'twitter:url', content: 'https://jicjjang.github.io/blog' },
-        { hid: 'twitter:image', name: 'twitter:image', content: 'https://jicjjang.github.io/blog/image/mine.jpg' },
+        { hid: 'twitter:url', name: 'twitter:url', content: 'https://jicjjangtest.github.io/blog' },
+        { hid: 'twitter:image', name: 'twitter:image', content: 'https://jicjjangtest.github.io/blog/image/mine.jpg' },
       ]
     },
     asyncData ({ params }) {
